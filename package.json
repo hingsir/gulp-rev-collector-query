@@ -1,0 +1,27 @@
+{
+  "name": "gulp-rev-collector-query",
+  "version": "1.0.0",
+  "description": "for gulp-rev-query",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hingsir/gulp-rev-collector-query.git"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.0",
+    "through2": ">=0.5.1",
+    "underscore": "^1.6.0"
+  },
+  "keywords": [
+    "gulp-rev-collector"
+  ],
+  "author": "hingsir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hingsir/gulp-rev-collector-query/issues"
+  },
+  "homepage": "https://github.com/hingsir/gulp-rev-collector-query#readme"
+}
